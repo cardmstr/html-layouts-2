@@ -44,8 +44,9 @@ img{
 }
 
 .main-content{
-  margin:35px;
+  margin:35px auto 35px auto;
   display: flex;
+  max-width: 800px;
 }
 
 .left-side{
